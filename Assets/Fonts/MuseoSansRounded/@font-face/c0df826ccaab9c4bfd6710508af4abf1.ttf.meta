@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e2b82ddb71386494bba7cf06238c3c92
+timeCreated: 1478084186
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MuseoSansW01-Rounded900
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c003eeba2e7714446bf456c812cb140a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
